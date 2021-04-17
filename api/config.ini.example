@@ -1,0 +1,3 @@
+[default]
+MAIL_SENDGRID_API_KEY=abcdefgh
+MAIL_DEFAULT_SENDER=blabla@example.com
