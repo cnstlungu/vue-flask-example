@@ -24,6 +24,8 @@ source venv/bin/activate
 # Install required packages
 pip install -r requirements.txt
 
+# Create config file with API keys (see config.ini.example file)
+
 # Run the application
 python3 client.py
 
